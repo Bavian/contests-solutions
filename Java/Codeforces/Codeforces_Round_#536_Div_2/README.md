@@ -1,0 +1,1 @@
+[Codeforces Round #536 (Div. 2)](https://codeforces.com/contest/1106)
