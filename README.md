@@ -1,3 +1,3 @@
-# Solutions to different problems
+# My Solutions
 
-I want to have more practice, so I solve problems. This repository serves as storage for my solutions
+This repository contains my solutions to different contests and problems.
