@@ -1,0 +1,1 @@
+[Dungeon and Maps](https://www.codingame.com/training/easy/dungeons-and-maps)
