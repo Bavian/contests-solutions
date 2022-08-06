@@ -10,3 +10,34 @@
 
 [Rock Paper Scissors Lizard Spock](https://www.codingame.com/training/easy/rock-paper-scissors-lizard-spock)
 
+
+# cpp
+
+[ASCII_Art](https://www.codingame.com/training/easy/ascii-art)
+
+[Chuck Norris](https://www.codingame.com/training/easy/chuck-norris)
+
+[Defibrillators](https://www.codingame.com/training/easy/defibrillators)
+
+[Dungeon and Maps](https://www.codingame.com/training/easy/dungeons-and-maps)
+
+[Ghost Legs](https://www.codingame.com/training/easy/ghost-legs)
+
+[Horse-racing Duals](https://www.codingame.com/training/easy/horse-racing-duals)
+
+[Mars Lender - Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)
+
+[MIME Type](https://www.codingame.com/training/easy/mime-type)
+
+[Power of Thor - Episode 1](https://www.codingame.com/training/easy/power-of-thor-episode-1)
+
+[Prefix code](https://www.codingame.com/training/easy/prefix-code)
+
+[Rectangle Partition](https://www.codingame.com/training/easy/rectangle-partition)
+
+[Shadows of the Knight - Episode 1](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1)
+
+[Temperatures](https://www.codingame.com/training/easy/temperatures)
+
+[There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
+
