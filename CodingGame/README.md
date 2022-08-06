@@ -41,3 +41,11 @@
 
 [There is no Spoon - Episode 1](https://www.codingame.com/training/medium/there-is-no-spoon-episode-1)
 
+# Go
+
+[Lumen](https://www.codingame.com/training/easy/lumen)
+
+[Sudoku Validator](https://www.codingame.com/training/easy/sudoku-validator)
+
+[Sum of Spiral's Diagonals](https://www.codingame.com/training/easy/sum-of-spirals-diagonals)
+
