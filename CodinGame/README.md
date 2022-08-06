@@ -49,3 +49,7 @@
 
 [Sum of Spiral's Diagonals](https://www.codingame.com/training/easy/sum-of-spirals-diagonals)
 
+# Java
+
+[The Descent](https://www.codingame.com/training/easy/the-descent)
+
